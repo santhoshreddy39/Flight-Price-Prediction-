@@ -71,8 +71,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── Flight Fare Prediction With ML.ipynb
+├── flight_predic_RF.pkl
 ├── requirements.txt
 ```
 
