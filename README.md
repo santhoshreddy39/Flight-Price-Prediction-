@@ -15,7 +15,7 @@ This repository consists of files required for end to end implementation and dep
 For checking the deployed model, click on the below link:<br />
 Link: [https://flightfare-prediction-api.herokuapp.com/](https://flightfare-prediction-api.herokuapp.com/)
 
-
+![Flight Price](https://user-images.githubusercontent.com/37765359/108739468-afb03800-755a-11eb-8993-73b6f7c16950.gif)
 
 ## Motivation
 
