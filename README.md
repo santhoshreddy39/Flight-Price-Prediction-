@@ -16,15 +16,13 @@ For checking the deployed model, click on the below link:<br />
 Link: [https://flightfare-prediction-api.herokuapp.com/](https://flightfare-prediction-api.herokuapp.com/)
 
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flightfare-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flightfare-prediction-api.herokuapp.com/)
-
 
 ## Motivation
+
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities.
 
 ## About the App
+
 The Airline Flight Fare Prediction is a Flask web application to predict airline flight fares across the Indian cities. The dataset for the project is taken from Kaggle, and it is a time-stamped dataset so, while building the model, extensive pre-processing was done on the dataset especially on the date-time columns to finally come up with a ML model which could effectively predict airline fares across various Indian Cities. 
 The dataset had many features which had to pre-processed and transformed into new parameters for a cleaner and simple web application layout to predict the fares. The various independent features in the dataset were: 
 
