@@ -55,7 +55,6 @@ h5py==2.10.0
 HeapDict==1.0.1
 idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
-imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1593446240034/work
